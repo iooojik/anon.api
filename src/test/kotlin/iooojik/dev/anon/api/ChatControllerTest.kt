@@ -1,0 +1,12 @@
+package iooojik.dev.anon.api
+
+import org.junit.jupiter.api.Test
+import org.springframework.boot.test.context.SpringBootTest
+
+@SpringBootTest
+class ChatControllerTest {
+    @Test
+    fun findChatTest() {
+
+    }
+}
